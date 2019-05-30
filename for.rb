@@ -6,4 +6,4 @@ def using_for
 	puts item
 end
 
-
+using_for
